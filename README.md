@@ -8,6 +8,12 @@ An avatar component for react
 $ npm install react-tiny-avatar
 ```
 
+or
+
+```sh
+$ yarn add react-tiny-avatar
+```
+
 ## Example
 
 ```ts
